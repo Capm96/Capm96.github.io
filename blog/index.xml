@@ -6,46 +6,10 @@
     <description>Recent content in Blogs on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 May 2019 00:14:31 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2019 16:15:04 -0300</lastBuildDate>
     
 	<atom:link href="https://capm96.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Spaghetti</title>
-      <link>https://capm96.github.io/blog/spaghetti/</link>
-      <pubDate>Fri, 24 May 2019 00:14:31 -0300</pubDate>
-      
-      <guid>https://capm96.github.io/blog/spaghetti/</guid>
-      <description>Testing testing</description>
-    </item>
-    
-    <item>
-      <title>One</title>
-      <link>https://capm96.github.io/blog/one/</link>
-      <pubDate>Fri, 24 May 2019 00:12:45 -0300</pubDate>
-      
-      <guid>https://capm96.github.io/blog/one/</guid>
-      <description>More testing</description>
-    </item>
-    
-    <item>
-      <title>The Dichotomy of Reality and our Self-Evident Inadequacies</title>
-      <link>https://capm96.github.io/blog/dichotomy/</link>
-      <pubDate>Fri, 24 May 2019 00:08:48 -0300</pubDate>
-      
-      <guid>https://capm96.github.io/blog/dichotomy/</guid>
-      <description>This is going to be a fun one to write!</description>
-    </item>
-    
-    <item>
-      <title>The Illusion of Free Will and its Moral Implications.</title>
-      <link>https://capm96.github.io/blog/free-will/</link>
-      <pubDate>Thu, 23 May 2019 16:19:12 -0300</pubDate>
-      
-      <guid>https://capm96.github.io/blog/free-will/</guid>
-      <description>It is a myth but it is not a bad thing.</description>
-    </item>
     
     <item>
       <title>The Hidden Beauty of (Mathematical) Irrationality</title>
@@ -53,16 +17,7 @@
       <pubDate>Thu, 23 May 2019 16:15:04 -0300</pubDate>
       
       <guid>https://capm96.github.io/blog/hidden-beauty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ignorance, Trust, and Gratitude - An Inescapable Loop</title>
-      <link>https://capm96.github.io/blog/ignorance/</link>
-      <pubDate>Thu, 23 May 2019 16:09:44 -0300</pubDate>
-      
-      <guid>https://capm96.github.io/blog/ignorance/</guid>
-      <description>The perpetual cycle.</description>
+      <description>The words which you are reading now have no objective truth behind them.</description>
     </item>
     
   </channel>
