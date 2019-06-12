@@ -6,10 +6,28 @@
     <description>Recent content on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Jun 2019 22:07:43 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2019 17:58:03 -0300</lastBuildDate>
     
 	<atom:link href="https://capm96.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Days That Change Everything</title>
+      <link>https://capm96.github.io/blog/days/</link>
+      <pubDate>Wed, 12 Jun 2019 17:58:03 -0300</pubDate>
+      
+      <guid>https://capm96.github.io/blog/days/</guid>
+      <description>At this point in your life, you probably have wondered several times about how something might have turned out had certain events happened differently.</description>
+    </item>
+    
+    <item>
+      <title>Dichotomy</title>
+      <link>https://capm96.github.io/blog/dichotomy/</link>
+      <pubDate>Mon, 10 Jun 2019 20:47:34 -0300</pubDate>
+      
+      <guid>https://capm96.github.io/blog/dichotomy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Light That Guides You Home</title>
@@ -17,15 +35,6 @@
       <pubDate>Sat, 08 Jun 2019 22:07:43 -0300</pubDate>
       
       <guid>https://capm96.github.io/blog/gravity/</guid>
-      <description>If you were asked to explain the most implausible fact you know, but which is also true without a doubt, what would it be?</description>
-    </item>
-    
-    <item>
-      <title>The Light That Guides You Home</title>
-      <link>https://capm96.github.io/blog/light/</link>
-      <pubDate>Thu, 06 Jun 2019 23:49:04 -0300</pubDate>
-      
-      <guid>https://capm96.github.io/blog/light/</guid>
       <description>If you were asked to explain the most implausible fact you know, but which is also true without a doubt, what would it be?</description>
     </item>
     
