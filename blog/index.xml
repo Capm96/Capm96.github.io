@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Feb 2020 18:18:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2020 20:12:15 +0100</lastBuildDate>
     
 	<atom:link href="https://capm96.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Money Boats</title>
+      <link>https://capm96.github.io/blog/etfs/</link>
+      <pubDate>Thu, 24 Sep 2020 20:12:15 +0100</pubDate>
+      
+      <guid>https://capm96.github.io/blog/etfs/</guid>
+      <description>Disclaimer: None of this should be considered as financial advice.</description>
+    </item>
     
     <item>
       <title>Spaghetti and Infinity</title>
