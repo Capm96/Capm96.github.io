@@ -1,87 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolio</title>
+    <title>My New Hugo Site</title>
     <link>https://capm96.github.io/</link>
-    <description>Recent content on Portfolio</description>
+    <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 24 Sep 2020 20:12:15 +0100</lastBuildDate>
-    
-	<atom:link href="https://capm96.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Money Boats</title>
-      <link>https://capm96.github.io/blog/etfs/</link>
-      <pubDate>Thu, 24 Sep 2020 20:12:15 +0100</pubDate>
-      
-      <guid>https://capm96.github.io/blog/etfs/</guid>
-      <description>Disclaimer: None of this should be considered as financial advice.</description>
-    </item>
-    
-    <item>
-      <title>Spaghetti and Infinity</title>
-      <link>https://capm96.github.io/blog/blackholes/</link>
-      <pubDate>Mon, 24 Feb 2020 18:18:08 +0000</pubDate>
-      
-      <guid>https://capm96.github.io/blog/blackholes/</guid>
-      <description>Out there in the dark sky lies a gentle monster that would seem fictional if it were not all too real.</description>
-    </item>
-    
-    <item>
-      <title>No Need To Look Away</title>
-      <link>https://capm96.github.io/blog/astrology/</link>
-      <pubDate>Mon, 19 Aug 2019 18:34:32 +0400</pubDate>
-      
-      <guid>https://capm96.github.io/blog/astrology/</guid>
-      <description>When I was little, my mother would tell me &amp;ldquo;eat your vegetables!</description>
-    </item>
-    
-    <item>
-      <title>Parece mas não é</title>
-      <link>https://capm96.github.io/blog/parece/</link>
-      <pubDate>Tue, 09 Jul 2019 20:00:41 -0300</pubDate>
-      
-      <guid>https://capm96.github.io/blog/parece/</guid>
-      <description>When I was a kid, my mom gave me a very special book called Parece mas não é.</description>
-    </item>
-    
-    <item>
-      <title>Days That Change Everything</title>
-      <link>https://capm96.github.io/blog/days/</link>
-      <pubDate>Wed, 12 Jun 2019 17:58:03 -0300</pubDate>
-      
-      <guid>https://capm96.github.io/blog/days/</guid>
-      <description>At this point in your life, you probably have wondered several times about how something might have turned out had certain events happened differently.</description>
-    </item>
-    
-    <item>
-      <title>The Light That Guides You Home</title>
-      <link>https://capm96.github.io/blog/gravity/</link>
-      <pubDate>Sat, 08 Jun 2019 22:07:43 -0300</pubDate>
-      
-      <guid>https://capm96.github.io/blog/gravity/</guid>
-      <description>If you were asked to explain the most implausible fact you know, but which is also true without a doubt, what would it be?</description>
-    </item>
-    
-    <item>
-      <title>Ignorance, Trust, and Gratitude</title>
-      <link>https://capm96.github.io/blog/ignorance/</link>
-      <pubDate>Fri, 31 May 2019 13:21:56 -0300</pubDate>
-      
-      <guid>https://capm96.github.io/blog/ignorance/</guid>
-      <description>Ignorance One of the great things about Astronomy is its unparalleled ability to create a sense of awe and humility.</description>
-    </item>
-    
-    <item>
-      <title>The Hidden Beauty of (Mathematical) Irrationality</title>
-      <link>https://capm96.github.io/blog/hidden-beauty/</link>
-      <pubDate>Thu, 23 May 2019 16:15:04 -0300</pubDate>
-      
-      <guid>https://capm96.github.io/blog/hidden-beauty/</guid>
-      <description>The words which you are reading now have no objective truth behind them.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://capm96.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
